@@ -1,0 +1,41 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\onisuly\Desktop\XYPLOR~1\zh-CN\XYplorer.chm
+
+HHC5003: Error: Compilation failed while compiling http:\www.xyplorer.com\xyfc\index.php.
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings401" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings402" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings403" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings404" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings405" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings406" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings407" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings408" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settings409" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsfonts" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingstemplates" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingstags" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingscustomcolumns" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsreport" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsfop" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsconfigurekopy" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsexternalcopyhandlers" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsfindfiles" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsundo" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsprev" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsprevformat" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsthumbs" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingstabs" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsdp" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsshell" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_settings.htm#idh_settingsfeatures" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_menfile.htm#idh_menfilespecrename" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_menedit.htm#idh_selectionfilter" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_menuser.htm#idh_udc" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_tags.htm#idh_tags_extratags" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_statusbarbuttons.htm#idh_bj" but the file does not exist
+HHC3015: Warning: An alias has been created to "idh_undo.htm#idh_actionlog" but the file does not exist
+
+
+The following files were not compiled:
+http:\www.xyplorer.com\xyfc\index.php
