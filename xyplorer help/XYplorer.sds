@@ -1,18 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<desktop scan="1" scanned="20141119131625" built="20141119214936" lang="zh-CN" pane="TLogPane" col="3" row="head.title.text">
+<desktop scan="1" scanned="20141119131625" built="20141120202241" lang="zh-CN" pane="TLogPane" col="4" row="table.tr.td.p.text">
   <language id="zh-CN" autoime="0" autokeyboard="0"/>
   <triggers>
-    <item class="TValidateTrigger" position="5"/>
+    <item class="TValidateTrigger" position="4"/>
   </triggers>
   <sheet>
     <columns>
       <item class="TFlagsColumn" width="38"/>
-      <item class="TPathColumn" width="271"/>
+      <item class="TPathColumn" width="288"/>
       <item class="TTranslationStatusColumn" width="66"/>
-      <item class="TOriginalColumn" width="538"/>
-      <item class="TTranslationColumn" lang="zh-CN" width="534"/>
+      <item class="TOriginalColumn" width="563"/>
+      <item class="TTranslationColumn" lang="zh-CN" width="580"/>
     </columns>
     <params>
+      <findtext>64</findtext>
+      <findtext>硬链接</findtext>
       <findtext>&amp;nbsp; &lt;a href="idh_intro.htm"&gt;&lt;img src="help-prev.png" border=0 alt="Previous"&gt;&lt;/a&gt;&amp;nbsp;</findtext>
       <findtext>Previous</findtext>
       <findtext>Installing XYplorer</findtext>
