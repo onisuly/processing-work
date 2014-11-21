@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<desktop scan="1" scanned="20141119131625" built="20141120202241" lang="zh-CN" pane="TLogPane" col="4" row="table.tr.td.p.text">
+<desktop scan="1" scanned="20141119131625" built="20141122044423" lang="zh-CN" pane="TLogPane" col="4" row="table.tr.td.p.span.text">
   <language id="zh-CN" autoime="0" autokeyboard="0"/>
   <triggers>
-    <item class="TValidateTrigger" position="4"/>
+    <item class="TValidateTrigger" position="2"/>
   </triggers>
   <sheet>
     <columns>
@@ -13,6 +13,14 @@
       <item class="TTranslationColumn" lang="zh-CN" width="580"/>
     </columns>
     <params>
+      <findtext>绝对</findtext>
+      <findtext>绝对相同</findtext>
+      <findtext>决定</findtext>
+      <findtext>相同</findtext>
+      <findtext>txt</findtext>
+      <findtext>单行</findtext>
+      <findtext>又称</findtext>
+      <findtext>aka</findtext>
       <findtext>64</findtext>
       <findtext>硬链接</findtext>
       <findtext>&amp;nbsp; &lt;a href="idh_intro.htm"&gt;&lt;img src="help-prev.png" border=0 alt="Previous"&gt;&lt;/a&gt;&amp;nbsp;</findtext>
